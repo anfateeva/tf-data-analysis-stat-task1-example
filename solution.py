@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import scipay as sp
 
 
 chat_id = 123456 # Ваш chat ID, не меняйте название переменной
